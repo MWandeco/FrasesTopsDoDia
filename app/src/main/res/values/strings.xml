@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FrasesTopsDoDia</string>
+    <string name="image">Imagem Frases do dia</string>
+    <string name="botao">Nova Frase</string>
+    <string name="textWelcome">Bem vindo! Pressione o botão, e receba sua sabedoria diária.</string>
+    <string name="wandeco">Matheus Wander®</string>
+</resources>
